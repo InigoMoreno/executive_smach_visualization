@@ -22,8 +22,6 @@
 
   <buildtool_depend>catkin</buildtool_depend>
 
-  <build_depend>rostest</build_depend>
-
   <!-- Dependencies needed after this package is compiled. -->
   <exec_depend>smach_ros</exec_depend>
   <exec_depend>smach_msgs</exec_depend>
